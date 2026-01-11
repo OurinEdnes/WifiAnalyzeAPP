@@ -1,0 +1,84 @@
+=================================
+Total Lantai = 3
+=================================
+
+>> Lantai 1 = 5
+          AccessPoint = 1
+               Nama = Yuzuha || Kegiatan = Browsing
+               Nama = Noah || Kegiatan = Gaming
+
+          AccessPoint = 2
+               Nama = Nom || Kegiatan = Browsing
+
+          AccessPoint = 3
+               [None]
+
+          AccessPoint = 4
+               Nama = Banu || Kegiatan = Browsing
+
+          AccessPoint = 5
+               [None]
+
+
+
+>> Lantai 2 = 6
+          AccessPoint = 1
+               Nama = Hooo || Kegiatan = Streaming
+
+          AccessPoint = 2
+               Nama = Alice || Kegiatan = Streaming
+               Nama = Gura || Kegiatan = Gaming
+               Nama = Aiko || Kegiatan = Meeting Online
+               Nama = Riku || Kegiatan = Streaming
+               Nama = Hoshino || Kegiatan = Gaming
+               Nama = Sameko || Kegiatan = Meeting Online
+               Nama = Ellen || Kegiatan = Streaming
+               Nama = Kana || Kegiatan = Gaming
+               Nama = Miku || Kegiatan = Streaming
+               Nama = Joe || Kegiatan = Meeting Online
+               Nama = Lili || Kegiatan = Meeting Online
+               Nama = Enterprise || Kegiatan = Streaming
+               Nama = Nana || Kegiatan = Gaming
+               Nama = Noel || Kegiatan = Streaming
+               Nama = Ash || Kegiatan = Meeting Online
+
+          AccessPoint = 3
+               [None]
+
+          AccessPoint = 4
+               Nama = Wisadel || Kegiatan = Gaming
+               Nama = Amiya || Kegiatan = Meeting Online
+               Nama = Minami || Kegiatan = Streaming
+               Nama = Jane || Kegiatan = Gaming
+               Nama = Lisa || Kegiatan = Streaming
+               Nama = Kiara || Kegiatan = Meeting Online
+
+          AccessPoint = 5
+               Nama = W || Kegiatan = Streaming
+               Nama = Ines || Kegiatan = Streaming
+
+          AccessPoint = 6
+               Nama = Yuzuha || Kegiatan = Meeting Online
+
+
+
+>> Lantai 3 = 5
+          AccessPoint = 1
+               Nama = Alice || Kegiatan = Streaming
+
+          AccessPoint = 2
+               Nama = Michdan || Kegiatan = Gaming
+
+          AccessPoint = 3
+               [None]
+
+          AccessPoint = 4
+               Nama = Yuzuha || Kegiatan = Browsing
+
+          AccessPoint = 5
+               Nama = Ellen || Kegiatan = Meeting Online
+
+
+
+=================================
+

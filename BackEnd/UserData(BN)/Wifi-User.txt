@@ -1,0 +1,51 @@
+=================================
+Total Lantai = 3
+=================================
+
+>> Lantai 1 = 2
+          AccessPoint = 1
+               [None]
+
+          AccessPoint = 2
+               [None]
+
+
+
+>> Lantai 2 = 4
+          AccessPoint = 1
+               Nama = Evlynn || Kegiatan = Gaming
+
+          AccessPoint = 2
+               [None]
+
+          AccessPoint = 3
+               [None]
+
+          AccessPoint = 4
+               [None]
+
+
+
+>> Lantai 3 = 6
+          AccessPoint = 1
+               Nama = JuFuFu || Kegiatan = Gaming
+
+          AccessPoint = 2
+               [None]
+
+          AccessPoint = 3
+               [None]
+
+          AccessPoint = 4
+               [None]
+
+          AccessPoint = 5
+               [None]
+
+          AccessPoint = 6
+               [None]
+
+
+
+=================================
+

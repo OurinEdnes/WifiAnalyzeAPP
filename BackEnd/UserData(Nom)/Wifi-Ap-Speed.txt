@@ -1,0 +1,31 @@
+=================================
+Total Lantai = 3
+=================================
+
+>> Lantai 1 = 5
+          AccessPoint = 2.3 Gbps || Kecepatan User = 0.205000Gbps
+          AccessPoint = 2.3 Gbps || Kecepatan User = 0.080000Gbps
+          AccessPoint = 2.3 Gbps || Kecepatan User = [None]
+          AccessPoint = 2.3 Gbps || Kecepatan User = 0.080000Gbps
+          AccessPoint = 2.3 Gbps || Kecepatan User = [None]
+
+
+>> Lantai 2 = 6
+          AccessPoint = 2.4 Gbps || Kecepatan User = [None]
+          AccessPoint = 2.4 Gbps || Kecepatan User = 2.300000Gbps
+          AccessPoint = 2.4 Gbps || Kecepatan User = [None]
+          AccessPoint = 2.4 Gbps || Kecepatan User = 0.910000Gbps
+          AccessPoint = 2.4 Gbps || Kecepatan User = 0.300000Gbps
+          AccessPoint = 2.4 Gbps || Kecepatan User = 0.180000Gbps
+
+
+>> Lantai 3 = 5
+          AccessPoint = 900 Mbps || Kecepatan User = 0.150000Gbps
+          AccessPoint = 900 Mbps || Kecepatan User = 0.125000Gbps
+          AccessPoint = 900 Mbps || Kecepatan User = [None]
+          AccessPoint = 900 Mbps || Kecepatan User = 0.080000Gbps
+          AccessPoint = 900 Mbps || Kecepatan User = 0.180000Gbps
+
+
+=================================
+

@@ -1,0 +1,23 @@
+################################
+Total AP per Lanntai
+Lantai 1 = 5
+Lantai 2 = 5
+################################
+
+================================
+Lantai 1:
+MerekWiFi    : ASUS Pro Business
+AccessPoint  : ASUS RT-AX88U
+KecepatanWiFi: 3.0 Gbps
+KecepatanAP  : 1.8 Gbps
+MaxUser      : 20
+================================
+
+================================
+Lantai 2:
+MerekWiFi    : ASUS Pro Business
+AccessPoint  : ASUS RT-AX88U
+KecepatanWiFi: 3.0 Gbps
+KecepatanAP  : 1.8 Gbps
+MaxUser      : 20
+================================

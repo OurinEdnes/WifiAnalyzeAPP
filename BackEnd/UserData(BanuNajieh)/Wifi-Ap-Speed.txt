@@ -1,0 +1,26 @@
+############################################
+Jumlah Lantai = 3
+############################################
+
+>> Lantai 1
+Jumlah AP    = 4
+  AccessPoint 1 = 1.8 Gbps || Kecepatan User = 1 Gbps
+  AccessPoint 2 = 1.5 Gbps || Kecepatan User = 800 Mbps
+  AccessPoint 3 = 900 Mbps || Kecepatan User = 500 Mbps
+  AccessPoint 4 = 700 Mbps || Kecepatan User = 300 Mbps
+
+>> Lantai 2
+Jumlah AP    = 3
+  AccessPoint 1 = 2 Gbps || Kecepatan User = 1.2 Gbps
+  AccessPoint 2 = 1 Gbps || Kecepatan User = 850 Mbps
+  AccessPoint 3 = 500 Mbps || Kecepatan User = 250 Mbps
+
+>> Lantai 3
+Jumlah AP    = 6
+  AccessPoint 1 = 1.2 Gbps || Kecepatan User = 900 Mbps
+  AccessPoint 2 = 1 Gbps || Kecepatan User = 600 Mbps
+  AccessPoint 3 = 850 Mbps || Kecepatan User = 500 Mbps
+  AccessPoint 4 = 750 Mbps || Kecepatan User = 350 Mbps
+  AccessPoint 5 = 600 Mbps || Kecepatan User = 300 Mbps
+  AccessPoint 6 = 400 Mbps || Kecepatan User = 200 Mbps
+############################################

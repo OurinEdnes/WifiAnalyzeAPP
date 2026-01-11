@@ -1,0 +1,45 @@
+========================================
+>> Lantai 1
+AccessPoint 1
+   User 1: Nama = Banu || Kegiatan = Streaming
+   User 2: Nama = Aikoo || Kegiatan = Coding
+   User 3: Nama = Zeta || Kegiatan = Download
+
+AccessPoint 2
+   User 1: Nama = Hana || Kegiatan = Browsing
+
+AccessPoint 3
+   User 1: Nama = Reza || Kegiatan = Upload
+   User 2: Nama = Yuki || Kegiatan = Zoom
+
+AccessPoint 4
+   [EMPTY]
+
+>> Lantai 2
+AccessPoint 1
+   User 1: Nama = Elin || Kegiatan = Gaming
+   User 2: Nama = Albert || Kegiatan = Discord
+
+AccessPoint 2
+   [EMPTY]
+
+AccessPoint 3
+   User 1: Nama = Sheila || Kegiatan = Telegram
+
+>> Lantai 3
+AccessPoint 1
+   User 1: Nama = Brian || Kegiatan = Email
+   User 2: Nama = Vira || Kegiatan = Coding
+
+AccessPoint 2
+   User 1: Nama = Ikhsan || Kegiatan = Streaming
+
+AccessPoint 3
+   [EMPTY]
+AccessPoint 4
+   [EMPTY]
+AccessPoint 5
+   [EMPTY]
+AccessPoint 6
+   User 1: Nama = Naura || Kegiatan = Upload
+========================================

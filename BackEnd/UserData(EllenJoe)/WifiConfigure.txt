@@ -1,0 +1,54 @@
+################################
+Jumlah Lantai = 5
+Lantai 1 = 4
+Lantai 2 = 2
+Lantai 3 = 5
+Lantai 4 = 3
+Lantai 5 = 2
+################################
+
+================================
+Lantai 1:
+MerekWiFi    : Ubiquiti UniFi
+AccessPoint  : UniFi 6 LR
+KecepatanWiFi: 4.0 Gbps
+KecepatanAP  : 1.5 Gbps
+MaxUser      : 4
+================================
+
+================================
+Lantai 2:
+MerekWiFi    : ZTE Corp
+AccessPoint  : ZTE WAX300H
+KecepatanWiFi: 2.0 Gbps
+KecepatanAP  : 900 Mbps
+MaxUser      : 2
+================================
+
+================================
+Lantai 3:
+MerekWiFi    : Cisco Catalyst
+AccessPoint  : Cisco CBW150AX
+KecepatanWiFi: 5.0 Gbps
+KecepatanAP  : 2.4 Gbps
+MaxUser      : 5
+================================
+
+================================
+Lantai 4:
+MerekWiFi    : ASUS Pro Business
+AccessPoint  : ASUS RT-AX88U
+KecepatanWiFi: 3.0 Gbps
+KecepatanAP  : 1.8 Gbps
+MaxUser      : 3
+================================
+
+================================
+Lantai 5:
+MerekWiFi    : Aruba Enterprise
+AccessPoint  : Aruba AP-535
+KecepatanWiFi: 4.8 Gbps
+KecepatanAP  : 2.0 Gbps
+MaxUser      : 2
+================================
+

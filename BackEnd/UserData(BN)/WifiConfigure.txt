@@ -1,0 +1,34 @@
+################################
+Jumlah Lantai = 3
+> Lantai 1 = 2
+> Lantai 2 = 4
+> Lantai 3 = 6
+################################
+
+================================
+Lantai 1:
+MerekWiFi    : Aruba Enterprise
+AccessPoint  : Aruba AP-535
+KecepatanWiFi: 4.8 Gbps
+KecepatanAP  : 2.0 Gbps
+MaxUser      : 20
+================================
+
+================================
+Lantai 2:
+MerekWiFi    : TP-Link Omada
+AccessPoint  : TP-Link EAP660 HD
+KecepatanWiFi: 2.5 Gbps
+KecepatanAP  : 2.4 Gbps
+MaxUser      : 20
+================================
+
+================================
+Lantai 3:
+MerekWiFi    : Cisco Catalyst
+AccessPoint  : Cisco CBW150AX
+KecepatanWiFi: 5.0 Gbps
+KecepatanAP  : 2.4 Gbps
+MaxUser      : 20
+================================
+

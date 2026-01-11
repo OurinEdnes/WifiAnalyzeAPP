@@ -1,0 +1,58 @@
+=================================
+Total Lantai = 5
+=================================
+
+>> Lantai 1 = 3
+          AccessPoint = 1 
+               [None] 
+
+          AccessPoint = 2
+               [None] 
+
+          AccessPoint = 3
+#             AccessPoint1  Nama = Banu || Kegiatan = Stream 
+
+
+>> Lantai 2 = 5
+          AccessPoint = 1
+               [None]
+
+          AccessPoint = 2
+               [None]
+
+          AccessPoint = 3
+               [None]
+
+          AccessPoint = 4
+               [None]
+
+          AccessPoint = 5
+               [None]
+
+
+>> Lantai 3 = 1
+          AccessPoint = 1
+               [None]
+
+
+
+>> Lantai 4 = 2
+          AccessPoint = 1
+               [None]
+
+          AccessPoint = 2
+               [None]
+
+
+
+>> Lantai 5 = 2
+          AccessPoint = 1
+               [None]
+
+          AccessPoint = 2
+               [None]
+
+
+
+=================================
+

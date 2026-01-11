@@ -1,0 +1,54 @@
+################################
+Jumlah Lantai = 5
+> Lantai 1 = 3
+> Lantai 2 = 5
+> Lantai 3 = 1
+> Lantai 4 = 2
+> Lantai 5 = 2
+################################
+
+================================
+Lantai 1:
+MerekWiFi    : Mikrotik Enterprise
+AccessPoint  : MikroTik cAP ax
+KecepatanWiFi: 2.4 Gbps
+KecepatanAP  : 1.0 Gbps
+MaxUser      : 3
+================================
+
+================================
+Lantai 2:
+MerekWiFi    : ZTE Corp
+AccessPoint  : ZTE WAX300H
+KecepatanWiFi: 2.0 Gbps
+KecepatanAP  : 900 Mbps
+MaxUser      : 5
+================================
+
+================================
+Lantai 3:
+MerekWiFi    : ZTE Corp
+AccessPoint  : ZTE WAX300H
+KecepatanWiFi: 2.0 Gbps
+KecepatanAP  : 900 Mbps
+MaxUser      : 1
+================================
+
+================================
+Lantai 4:
+MerekWiFi    : ZTE Corp
+AccessPoint  : ZTE WAX300H
+KecepatanWiFi: 2.0 Gbps
+KecepatanAP  : 900 Mbps
+MaxUser      : 2
+================================
+
+================================
+Lantai 5:
+MerekWiFi    : Ubiquiti UniFi
+AccessPoint  : UniFi 6 LR
+KecepatanWiFi: 4.0 Gbps
+KecepatanAP  : 1.5 Gbps
+MaxUser      : 2
+================================
+
