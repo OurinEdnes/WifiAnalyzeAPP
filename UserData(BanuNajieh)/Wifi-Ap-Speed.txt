@@ -1,0 +1,10 @@
+Lantai 1
+  AP 1 = 100 Mbps
+  AP 2 = 75 Mbps
+  AP 3 = 50 Mbps
+
+====================================================
+Lantai 2
+  AP 1 = 150 Mbps
+  AP 2 = 100 Mbps
+  AP 3 = 90 Mbps

@@ -1,0 +1,22 @@
+Lantai 1
+  AP 1
+    AP Name     : TP-Link Archer C6
+    AP Speed    : 100 Mbps
+    AP MaxUser  : 5
+
+  AP 2
+    AP Name     : ASUS RT-AX55
+    AP Speed    : 75 Mbps
+    AP MaxUser  : 4
+
+====================================================
+Lantai 2
+  AP 1
+    AP Name     : Ubiquiti UniFi 6 Lite
+    AP Speed    : 150 Mbps
+    AP MaxUser  : 6
+
+  AP 2
+    AP Name     : MikroTik hAP ac²
+    AP Speed    : 100 Mbps
+    AP MaxUser  : 3

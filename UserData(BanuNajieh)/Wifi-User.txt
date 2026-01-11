@@ -1,0 +1,26 @@
+Lantai 1
+  AP Ke-1
+    Maksimal User: 5
+      - Nama     : Aikoo
+        Kegiatan : Browsing
+
+      - Nama     : Banu
+        Kegiatan : Streaming
+
+  AP Ke-2
+    Maksimal User: 4
+      - Nama     : Lala
+        Kegiatan : Meeting
+
+      - Nama     : Tama
+        Kegiatan : Gaming
+
+====================================================
+Lantai 2
+  AP Ke-1
+    Maksimal User: 6
+      - Nama     : Fajar
+        Kegiatan : Download
+
+      - Nama     : Rina
+        Kegiatan : Online Class
