@@ -1,0 +1,80 @@
+WiFi = 1
+    MerekWiFi    : TP-Link Omada
+    AccessPoint  : TP-Link EAP610
+    KecepatanWiFi: 2.5 Gbps
+    KecepatanAP  : 1.2 Gbps
+    MaxUser      : 20
+
+===================================
+WiFi = 2
+    MerekWiFi    : ASUS Pro Business
+    AccessPoint  : ASUS RT-AX88U
+    KecepatanWiFi: 3.0 Gbps
+    KecepatanAP  : 1.8 Gbps
+    MaxUser      : 20
+
+===================================
+WiFi = 3
+    MerekWiFi    : Cisco Catalyst
+    AccessPoint  : Cisco CBW150AX
+    KecepatanWiFi: 5.0 Gbps
+    KecepatanAP  : 2.4 Gbps
+    MaxUser      : 20
+
+===================================
+WiFi = 4
+    MerekWiFi    : Ubiquiti UniFi
+    AccessPoint  : UniFi 6 LR
+    KecepatanWiFi: 4.0 Gbps
+    KecepatanAP  : 1.5 Gbps
+    MaxUser      : 18
+
+===================================
+WiFi = 5
+    MerekWiFi    : Aruba Enterprise
+    AccessPoint  : Aruba AP-535
+    KecepatanWiFi: 4.8 Gbps
+    KecepatanAP  : 2.0 Gbps
+    MaxUser      : 20
+
+===================================
+WiFi = 6
+    MerekWiFi    : ZTE Corp
+    AccessPoint  : ZTE WAX300H
+    KecepatanWiFi: 2.0 Gbps
+    KecepatanAP  : 900 Mbps
+    MaxUser      : 15
+
+===================================
+WiFi = 7
+    MerekWiFi    : D-Link Business
+    AccessPoint  : D-Link DAP-X2810
+    KecepatanWiFi: 3.2 Gbps
+    KecepatanAP  : 1.6 Gbps
+    MaxUser      : 20
+
+===================================
+WiFi = 8
+    MerekWiFi    : TP-Link Omada
+    AccessPoint  : TP-Link EAP660 HD
+    KecepatanWiFi: 2.5 Gbps
+    KecepatanAP  : 2.4 Gbps
+    MaxUser      : 20
+
+===================================
+WiFi = 9
+    MerekWiFi    : Mikrotik Enterprise
+    AccessPoint  : MikroTik cAP ax
+    KecepatanWiFi: 2.4 Gbps
+    KecepatanAP  : 1.0 Gbps
+    MaxUser      : 18
+
+===================================
+WiFi = 10
+    MerekWiFi    : Aruba Enterprise
+    AccessPoint  : Aruba AP-515
+    KecepatanWiFi: 4.0 Gbps
+    KecepatanAP  : 2.3 Gbps
+    MaxUser      : 20
+
+===================================
